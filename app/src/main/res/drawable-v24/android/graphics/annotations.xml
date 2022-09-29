@@ -1,0 +1,5 @@
+<root>
+    <item name='android.graphics.Color void RGBToHSV(int, int, int, float[]) 3'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
